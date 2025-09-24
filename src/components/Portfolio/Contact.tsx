@@ -31,7 +31,7 @@ const Contact = () => {
         "template_hdnp8at",
         {
           from_name: `${formData.firstName} ${formData.lastName}`,
-          from_email: formData.email,
+          reply_to: formData.email,
           subject: formData.subject,
           message: formData.message,
         },
