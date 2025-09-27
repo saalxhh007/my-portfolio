@@ -24,7 +24,7 @@ const Projects = () => {
         "An Event management website with renting for ( weddings, parties...), dashboard... features.",
       image: eventia,
       tags: ["Next.js", "Node.js", "Nodemailer", "Postgres"],
-      demoUrl: "#",
+      demoUrl: "https://eventia-lac.vercel.app",
       githubUrl: "https://github.com/saalxhh007/eventia"
     },
     {
