@@ -49,7 +49,7 @@ const Projects = () => {
       image: eventia,
       detailImages: [eventia, eventia1, eventia2, eventia3, eventia4, eventia5],
       tags: ["Next.js", "Node.js", "Nodemailer", "Postgres"],
-      demoUrl: "#",
+      demoUrl: "https://eventia-lac.vercel.app",
       githubUrl: "https://github.com/saalxhh007/eventia",
         features: [
             "Advanced inventory management for tracking venues and services",
