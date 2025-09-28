@@ -83,7 +83,7 @@ const Contact = () => {
                   <Phone className="h-6 w-6 text-secondary-foreground" />
                 </div>
                 <div>
-                  <p className="font-medium text-foreground">Phone</p>
+                  <p className="font-medium text-foreground">WhatsApp</p>
                   <p className="text-muted-foreground">+213 658 48 92 12</p>
                 </div>
               </div>
