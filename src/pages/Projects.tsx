@@ -19,7 +19,10 @@ import eventia5 from "@/assets/eventia5.webp";
 import medical_dashboard2 from "@/assets/medical-dashboard2.webp";
 import medical_dashboard3 from "@/assets/medical-dashboard3.webp";
 import medical_dashboard4 from "@/assets/medical-dashboard4.webp";
-import crastel from "@/assets/crastel.webp";
+import tech_store from "@/assets/tech_store.webp";
+import tech_store1 from "@/assets/tech_store1.webp";
+import tech_store2 from "@/assets/tech_store2.webp";
+import tech_store3 from "@/assets/tech_store3.webp";
 
 const Projects = () => {
   const [selectedProject, setSelectedProject] = useState<number | null>(null);
@@ -82,8 +85,8 @@ const Projects = () => {
       title: "Crastel",
       description: "Ecommerce Websitem  A full-stack e-commerce solution with user authentication, payment processing, and admin dashboard.",
       fullDescription: "A full-stack e-commerce solution with user authentication, payment processing, and admin dashboard in order to sell phones, laptops and accessoires",
-      image: crastel,
-      detailImages: [crastel],
+      image: tech_store,
+      detailImages: [tech_store, tech_store1, tech_store2, tech_store3],
       tags: ["Next.js", "Express.js", "Mysql"],
       demoUrl: "#",
       githubUrl: "https://github.com/saalxhh007/crastel",
