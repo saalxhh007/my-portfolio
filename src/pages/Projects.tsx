@@ -82,14 +82,14 @@ const Projects = () => {
       ]
     },
     {
-      title: "Crastel",
+      title: "Tech-Store",
       description: "Ecommerce Websitem  A full-stack e-commerce solution with user authentication, payment processing, and admin dashboard.",
       fullDescription: "A full-stack e-commerce solution with user authentication, payment processing, and admin dashboard in order to sell phones, laptops and accessoires",
       image: tech_store,
       detailImages: [tech_store, tech_store1, tech_store2, tech_store3],
       tags: ["Next.js", "Express.js", "Mysql"],
-      demoUrl: "#",
-      githubUrl: "https://github.com/saalxhh007/crastel",
+      demoUrl: "https://tech-store-git-main-mghsalah2-5217s-projects.vercel.app/",
+      githubUrl: "https://github.com/saalxhh007/Tech-Store",
       features: [
         "Interactive data visualizations",
         "Real-time data updates",
