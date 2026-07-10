@@ -71,7 +71,7 @@ const Projects = () => {
       image: medical_dashboard,
       detailImages: [ medical_dashboard, medical_dashboard2, medical_dashboard3, medical_dashboard4],
       tags: ["Next.js", "Express.js", "Mysql"],
-      demoUrl: "https://medical-cabinet-dashboard-9dxw-cni6wusd8.vercel.app/",
+      demoUrl: "https://medical-cabinet-dashboard-qk6jmp8im-mghsalah2-5217s-projects.vercel.app/",
       githubUrl: "https://github.com/saalxhh007/Medical-Cabinet-Dashboard",
       features: [
         "Interactive data visualizations",
