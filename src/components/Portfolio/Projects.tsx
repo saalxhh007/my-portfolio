@@ -32,7 +32,7 @@ const Projects = () => {
       description: "A responsive medical application with patients management and interactive charts.",
       image: medical_dashboard,
       tags: ["Next.js", "Express.js", "Postgres"],
-      demoUrl: "https://medical-cabinet-dashboard-qk6jmp8im-mghsalah2-5217s-projects.vercel.app/",
+      demoUrl: "https://medical-cabinet-dashboard-9dxw.vercel.app/",
       githubUrl: "https://github.com/saalxhh007/Medical-Cabinet-Dashboard"
     }
   ];
